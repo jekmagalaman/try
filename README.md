@@ -33,7 +33,6 @@ The goal of the web application Cozy Cup Cafe is to make ordering coffee quick a
 
 ## About the Authors
 
-### Jake Magalaman
 <img src="https://github.com/jekmagalaman.png" width="150" style="border-radius: 50%;">
 
 **Name:** Jake Magalaman  
@@ -48,7 +47,6 @@ The goal of the web application Cozy Cup Cafe is to make ordering coffee quick a
 
 ---
 
-### Kenn Dainiel Paduga
 <img src="https://github.com/KDNLP.png" width="150" style="border-radius: 50%;">
 
 **Name:** Kenn Dainiel Paduga  
