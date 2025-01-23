@@ -6,49 +6,55 @@ Cozy Cup Cafe is a web application for ordering coffee online.
 
 ## Features
 
-*   Home page with featured products.
-*   Menu page that is user friendly.
-*   About page where you can know us better.
-*   Contact page where you can see our address, a map where you can see our location, a contact number and email address where you can contact us, and a message section where you can send us your opinions and comments.
+- Home page with featured products.
+- Menu page that is user-friendly.
+- About page where you can know us better.
+- Contact page where you can see our address, a map with our location, a contact number, email address, and a message section for your opinions and comments.
 
 ## Screen Captures
 
-![Homepage](img/home.png)
+### Homepage
+![Homepage](img/home.png)  
 _Home page._
 
-![Menu](img/menu.png)
+### Menu
+![Menu](img/menu.png)  
 _Menu page._
 
-![Order Form](img/about.png)
+### About Page
+![Order Form](img/about.png)  
 _About page._
 
-![Confirmation](img/contact.png)
+### Contact Page
+![Confirmation](img/contact.png)  
 _Contact page._
 
 ## About the Authors
 
+### Jake Magalaman
 <img src="https://github.com/jekmagalaman.png" width="150" style="border-radius: 50%;">
 
-**Name:** Jake Magalaman
+**Name:** Jake Magalaman  
+**Email:** 202020184@psu.palawan.edu.ph  
 
-**Email:** 202020184@psu.palawan.edu.ph
-
-<a href="https://www.facebook.com/jake magalaman">
-  <img src="img/Facebook.png" alt="Facebook" width="32">
+<a href="https://www.facebook.com/jake.magalaman">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" alt="Facebook" width="24">
 </a>
 <a href="https://github.com/jekmagalaman">
-  <img src="img/Github.png" alt="GitHub" width="32">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" alt="GitHub" width="24">
 </a>
 
+---
+
+### Kenn Dainiel Paduga
 <img src="https://github.com/KDNLP.png" width="150" style="border-radius: 50%;">
 
-**Name:** Kenn Dainiel Paduga
+**Name:** Kenn Dainiel Paduga  
+**Email:** 202020184@psu.palawan.edu.ph  
 
-**Email:** 202020184@psu.palawan.edu.ph
-
-<a href="https://www.facebook.com/kenn dainiel paduga">
-  <img src="[![Facebook](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)]" alt="Facebook" width="32">
+<a href="https://www.facebook.com/kenn.dainiel.paduga">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" alt="Facebook" width="24">
 </a>
 <a href="https://github.com/KDNLP">
-  <img src="[![GitHub](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg)]" alt="GitHub" width="32">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" alt="GitHub" width="24">
 </a>
