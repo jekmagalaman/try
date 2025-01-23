@@ -46,9 +46,5 @@ _Contact page._
 
 **Email:** 202020184@psu.palawan.edu.ph
 
-<a href="https://www.facebook.com/kenn dainiel paduga">
-  <img src="https://github.com/Facebook.png" alt="Facebook" width="32">
-</a>
-<a href="https://github.com/KDNLP">
-  <img src="https://github.com/Github.png" alt="GitHub" width="32">
-</a>
+[![Facebook](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)](https://facebook.com/yourprofile)  
+[![GitHub](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg)](https://github.com/yourusername)
