@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Cozy Cup Cafe is a web application for ordering coffee online.
+The goal of the web application Cozy Cup Cafe is to make ordering coffee quick and simple. It only takes a few clicks for users to browse our menu, read our story, and contact us. Customers may explore featured products, view our entire menu, and even submit comments with ease thanks to the platform. Cozy Cup Cafe makes sure that the experience is easy and fun, whether you're purchasing coffee on the run or organizing your next cafe visit.
 
 ## Features
 
@@ -15,19 +15,15 @@ Cozy Cup Cafe is a web application for ordering coffee online.
 
 ### Homepage
 ![Homepage](img/home.png)  
-_Home page._
 
 ### Menu
 ![Menu](img/menu.png)  
-_Menu page._
 
 ### About Page
 ![Order Form](img/about.png)  
-_About page._
 
 ### Contact Page
 ![Confirmation](img/contact.png)  
-_Contact page._
 
 ## About the Authors
 
@@ -50,7 +46,7 @@ _Contact page._
 <img src="https://github.com/KDNLP.png" width="150" style="border-radius: 50%;">
 
 **Name:** Kenn Dainiel Paduga  
-**Email:** 202020184@psu.palawan.edu.ph  
+**Email:** 202080520@psu.palawan.edu.ph  
 
 <a href="https://www.facebook.com/kenn.dainiel.paduga">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" alt="Facebook" width="24">
