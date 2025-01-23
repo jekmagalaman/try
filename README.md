@@ -6,35 +6,51 @@ Cozy Cup Cafe is a web application for ordering coffee online.
 
 ## Features
 
-*   Browse the menu.
-*   Place orders for pickup.
-*   View daily specials.
+*   Home page with featured products.
+*   Menu page that is user friendly.
+*   About page where you can know us better.
+*   Contact page where you can see our address, a map where you can see our location, a contact number and email address where you can contact us, and a message section where you can send us your opinions and comments.
 
 ## Screen Captures
 
-![Homepage](images/homepage.png)
-_The main homepage with featured drinks._
+![Homepage](img/home.png)
+_Home page._
 
-![Menu](images/menu.png)
-_The full drink menu._
+![Menu](img/menu.png)
+_Menu page._
 
-![Order Form](images/order.png)
-_The form for placing an order._
+![Order Form](img/about.png)
+_About page._
 
-![Confirmation](images/confirmation.png)
-_Order confirmation screen._
+![Confirmation](img/contact.png)
+_Contact page._
 
 ## About the Authors
 
-<img src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;">
+<img src="https://github.com/jekmagalaman.png" width="150" style="border-radius: 50%;">
 
-**Name:** Your Name
+**Name:** Jake Magalaman
 
-**Email:** your.email@example.com
+**Email:** 202020184@psu.palawan.edu.ph
 
-<a href="https://www.facebook.com/yourfacebookprofile">
-  <img src="images/facebook-icon.png" alt="Facebook" width="32">
+<a href="https://www.facebook.com/jake magalaman">
+  <img src="img/Facebook.png" alt="Facebook" width="32">
 </a>
-<a href="https://github.com/yourgithubprofile">
-  <img src="images/github-icon.png" alt="GitHub" width="32">
+<a href="https://github.com/jekmagalaman">
+  <img src="img/Github.png" alt="GitHub" width="32">
+</a>
+
+
+
+<img src="https://github.com/KDNLP.png" width="150" style="border-radius: 50%;">
+
+**Name:** Kenn Dainiel Paduga
+
+**Email:** 202020184@psu.palawan.edu.ph
+
+<a href="https://www.facebook.com/kenn dainiel paduga">
+  <img src="[Facebook](https://github.com/gauravghongde/social-icons/PNG/Color/Facebook.png)" alt="Facebook" width="32">
+</a>
+<a href="https://github.com/KDNLP">
+  <img src="[Github](https://github.com/gauravghongde/social-icons/PNG/Color/Github.png)" alt="GitHub" width="32">
 </a>
