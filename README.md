@@ -40,8 +40,6 @@ _Contact page._
   <img src="img/Github.png" alt="GitHub" width="32">
 </a>
 
-
-
 <img src="https://github.com/KDNLP.png" width="150" style="border-radius: 50%;">
 
 **Name:** Kenn Dainiel Paduga
